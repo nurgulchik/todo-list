@@ -1,2 +1,2 @@
 
-https://nurgulchik.github.io/todo-list/
+https://nurgulchik.github.io/todo-list/task-7/index.html
